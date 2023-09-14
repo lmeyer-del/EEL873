@@ -9,6 +9,11 @@
     padding: 20px 0;
 }
 
+.centered-image {
+    width: 400px;
+    height: 500px;
+}
+
 .line {
     height: 2px;
     width: 100px;
